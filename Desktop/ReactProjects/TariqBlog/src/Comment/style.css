@@ -1,0 +1,12 @@
+.button-com {
+  display: flex;
+  gap: 10px;
+}
+.ui-input {
+  display: flex;
+  gap: 10px;
+}
+.author {
+  font-size: large;
+  font-weight: 800;
+}
